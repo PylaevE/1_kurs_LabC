@@ -1,0 +1,22 @@
+﻿  SteckQueue.cpp
+  Sort.cpp
+  ChoiseSearch.cpp
+  Search.cpp
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\search.cpp(13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\search.cpp(184): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\search.cpp(185): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\search.cpp(284): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\search.cpp(285): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\search.cpp(367): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\search.cpp(393): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\search.cpp(394): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  PolishNotation.cpp
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\polishnotation.cpp(54): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\pylae\desktop\пылаев евгений\агрегатор лабораторных работ студента - пылаева евгения\labwork\polishnotation.cpp(129): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Main.cpp
+  ChoiceSort.cpp
+  ChoiceOfDataType.cpp
+  BinaryTree.cpp
+  Создание кода...
+  LabWork.vcxproj -> C:\Users\pylae\Desktop\Пылаев Евгений\Агрегатор лабораторных работ студента - Пылаева Евгения\x64\Debug\LabWork.exe
+  LabWork.vcxproj -> C:\Users\pylae\Desktop\Пылаев Евгений\Агрегатор лабораторных работ студента - Пылаева Евгения\x64\Debug\LabWork.pdb (Partial PDB)
